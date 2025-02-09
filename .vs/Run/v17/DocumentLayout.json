@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D662B9B6-DDAF-F196-7CF2-DEA0ED825379}|Assembly-CSharp.csproj|c:\\users\\sky\\onedrive\\ta\u0300i li\u00EA\u0323u\\unity\\run\\assets\\c#\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D662B9B6-DDAF-F196-7CF2-DEA0ED825379}|Assembly-CSharp.csproj|solutionrelative:assets\\c#\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D662B9B6-DDAF-F196-7CF2-DEA0ED825379}|Assembly-CSharp.csproj|C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\assets\\c#\\groundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D662B9B6-DDAF-F196-7CF2-DEA0ED825379}|Assembly-CSharp.csproj|solutionrelative:assets\\c#\\groundtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D662B9B6-DDAF-F196-7CF2-DEA0ED825379}|Assembly-CSharp.csproj|C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\assets\\c#\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D662B9B6-DDAF-F196-7CF2-DEA0ED825379}|Assembly-CSharp.csproj|solutionrelative:assets\\c#\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D662B9B6-DDAF-F196-7CF2-DEA0ED825379}|Assembly-CSharp.csproj|C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\assets\\c#\\groundspam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D662B9B6-DDAF-F196-7CF2-DEA0ED825379}|Assembly-CSharp.csproj|solutionrelative:assets\\c#\\groundspam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D662B9B6-DDAF-F196-7CF2-DEA0ED825379}|Assembly-CSharp.csproj|C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\assets\\c#\\raochan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D662B9B6-DDAF-F196-7CF2-DEA0ED825379}|Assembly-CSharp.csproj|solutionrelative:assets\\c#\\raochan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D662B9B6-DDAF-F196-7CF2-DEA0ED825379}|Assembly-CSharp.csproj|C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\assets\\c#\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D662B9B6-DDAF-F196-7CF2-DEA0ED825379}|Assembly-CSharp.csproj|solutionrelative:assets\\c#\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\Assets\\C#\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\C#\\Coin.cs",
+              "ToolTip": "C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\Assets\\C#\\Coin.cs",
+              "RelativeToolTip": "Assets\\C#\\Coin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:09:22.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\Assets\\C#\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\C#\\GameManager.cs",
+              "ToolTip": "C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\Assets\\C#\\GameManager.cs",
+              "RelativeToolTip": "Assets\\C#\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:13:00.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RaoChan.cs",
+              "DocumentMoniker": "C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\Assets\\C#\\RaoChan.cs",
+              "RelativeDocumentMoniker": "Assets\\C#\\RaoChan.cs",
+              "ToolTip": "C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\Assets\\C#\\RaoChan.cs",
+              "RelativeToolTip": "Assets\\C#\\RaoChan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:48:43.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroundTile.cs",
+              "DocumentMoniker": "C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\Assets\\C#\\GroundTile.cs",
+              "RelativeDocumentMoniker": "Assets\\C#\\GroundTile.cs",
+              "ToolTip": "C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\Assets\\C#\\GroundTile.cs",
+              "RelativeToolTip": "Assets\\C#\\GroundTile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:55:32.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroundSpam.cs",
+              "DocumentMoniker": "C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\Assets\\C#\\GroundSpam.cs",
+              "RelativeDocumentMoniker": "Assets\\C#\\GroundSpam.cs",
+              "ToolTip": "C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\Assets\\C#\\GroundSpam.cs",
+              "RelativeToolTip": "Assets\\C#\\GroundSpam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:46:26.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\Assets\\C#\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\C#\\Player.cs",
+              "ToolTip": "C:\\Users\\sky\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\Unity\\Run\\Assets\\C#\\Player.cs",
+              "RelativeToolTip": "Assets\\C#\\Player.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:05:54.889Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
